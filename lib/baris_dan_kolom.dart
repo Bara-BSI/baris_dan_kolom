@@ -23,7 +23,7 @@ class Barisdankolom extends StatelessWidget {
                     padding: EdgeInsets.only(top: 80, left: 5, right: 5, bottom: 80),
                     child: 
                       Text("Baris $i Kolom $j",style: TextStyle(
-                        fontSize: 20,
+                        fontSize: 12,
                         color: Colors.deepPurple
                       ),)
                     )
